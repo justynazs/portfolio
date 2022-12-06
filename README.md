@@ -57,9 +57,11 @@ samouczekprogramisty.pl
 
 ## MY TEST CASES EXAMPLE
 
+https://docs.google.com/spreadsheets/d/1WPYQe8Za87NjGtabYu8MtIbrKVSBEB7XGkPmvRujPHg/edit#gid=0
+
 
 ## MY BUG REPORTS
 
-
+https://docs.google.com/spreadsheets/d/1Zw9536ijcbvO7mphFlzcEHwc686ZagMSifiKdcNm_S0/edit#gid=0
 
 
