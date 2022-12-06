@@ -8,15 +8,15 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 ## SOFT SKILLS
  
- * Reliability
+ 👉 Reliability
  
- * Cooperation
+ 👉 Cooperation
  
- * Decision making and accountability
+ 👉 Decision making and accountability
  
- * Diligence
+ 👉 Diligence
  
- * Honesty
+ 👉 Honesty
 
 
 ## TOOLS
