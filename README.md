@@ -55,7 +55,6 @@ testermilenabednarczyk.pl
 
 samouczekprogramisty.pl
 
-
 ## MY TEST CASES EXAMPLE
 
 https://docs.google.com/spreadsheets/d/1WPYQe8Za87NjGtabYu8MtIbrKVSBEB7XGkPmvRujPHg/edit#gid=0
@@ -64,5 +63,9 @@ https://docs.google.com/spreadsheets/d/1WPYQe8Za87NjGtabYu8MtIbrKVSBEB7XGkPmvRuj
 ## MY BUG REPORTS
 
 https://docs.google.com/spreadsheets/d/1Zw9536ijcbvO7mphFlzcEHwc686ZagMSifiKdcNm_S0/edit#gid=0
+
+
+## LINK TO MY REPOSITORY MADE DURING PORFTOLIO CHALLENGE WITH DARE IT COMMUNITY
+
 
 
