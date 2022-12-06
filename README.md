@@ -47,13 +47,14 @@ Testowanie oprogramowania
 Testowanie oprogramowiania - Materiały/Porady
 
 
-## RECOMENDED BLOGS
+## BLOGS I READ
 
 testerzy.pl
 
 testermilenabednarczyk.pl
 
 samouczekprogramisty.pl
+
 
 ## MY TEST CASES EXAMPLE
 
