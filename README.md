@@ -19,6 +19,7 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
  👉 Honesty
 
 
+
 ## TOOLS
 
 JIRA, TRELLO, SLACK, ASANA - Issue tracking and project management tool for developers
