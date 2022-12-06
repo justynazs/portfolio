@@ -2,7 +2,8 @@
 
 ## ABOUT ME
 
-### My name is Justyna Gajda. I graduated from cultural studies at the University of Silesia with a theater specialization. I worked in a museum and at the same time ran my own one-man business. After the outbreak of war in Ukraine and the uncertain geopolitical situation, I decided to gain new digital competences and started learning manual testing. I am at the very beginning of my path as a manual tester. I want to develop and teach the technical skills necessary for this job.
+## 
+My name is Justyna Gajda. I graduated from cultural studies at the University of Silesia with a theater specialization. I worked in a museum and at the same time ran my own one-man business. After the outbreak of war in Ukraine and the uncertain geopolitical situation, I decided to gain new digital competences and started learning manual testing. I am at the very beginning of my path as a manual tester. I want to develop and teach the technical skills necessary for this job.
 
 
 
