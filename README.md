@@ -67,5 +67,5 @@ https://docs.google.com/spreadsheets/d/1Zw9536ijcbvO7mphFlzcEHwc686ZagMSifiKdcNm
 
 ## LINK TO MY REPOSITORY MADE DURING PORFTOLIO CHALLENGE WITH DARE IT COMMUNITY
 
-
+https://github.com/justynazs/-challenge_portfolio_justyna
 
