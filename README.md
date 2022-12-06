@@ -52,7 +52,7 @@ Portfolio Challenge Dare IT
 
 Practical software testing course - UDEMY
 
-SQL - query language for SQL Server database - UDEMY
+Basics of manual software testing - UDEMY
 
 
 ## GROUPS ON FACEBOOK
@@ -85,3 +85,6 @@ https://docs.google.com/spreadsheets/d/1Zw9536ijcbvO7mphFlzcEHwc686ZagMSifiKdcNm
 
 https://github.com/justynazs/-challenge_portfolio_justyna
 
+## LINKED IN
+
+https://www.linkedin.com/in/justyna-gajda-605480252/
