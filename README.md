@@ -29,6 +29,8 @@ SHAREX, PICK PICK - Screen recording tools, screenshots, etc.
 
 GITHUB
 
+XAMPP 
+
 
 ## TECH SKILLS
 
