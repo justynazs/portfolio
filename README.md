@@ -44,7 +44,7 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 👉 XAMPP- open-source cross-platform web server solution stack package
 
-👉 BROWSERSTACK - web and mobile testing platform
+👉 [BROWSERSTACK] (https://www.browserstack.com/)
 
 
 
