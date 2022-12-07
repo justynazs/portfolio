@@ -28,9 +28,11 @@ POSTMAN - Testing tools for REST API
 
 SHAREX, PICK PICK - Screen recording tools, screenshots, etc.
 
-GITHUB
+GITHUB - open-source cross-platform web server solution stack package
 
-XAMPP 
+XAMPP -
+
+BROWSERSTACK - web and mobile testing platform
 
 
 ## TECH SKILLS
@@ -64,11 +66,11 @@ Testowanie oprogramowiania - Materiały/Porady
 
 ## BLOGS I READ
 
-testerzy.pl
+www.testerzy.pl
 
-testermilenabednarczyk.pl
+www.testermilenabednarczyk.pl
 
-samouczekprogramisty.pl
+www.samouczekprogramisty.pl
 
 
 ## MY TEST CASES EXAMPLE
