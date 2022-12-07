@@ -19,6 +19,18 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
  👉 Honesty
 
 
+## TECH SKILLS
+
+👉 Software desting
+
+👉 Creating test cases
+
+👉 Reporting bugs
+
+👉 Dev tools
+
+👉 SQL
+
 
 ## TOOLS
 
@@ -34,18 +46,6 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 👉 BROWSERSTACK - web and mobile testing platform
 
-
-## TECH SKILLS
-
-👉 Software desting
-
-👉 Creating test cases
-
-👉 Reporting bugs
-
-👉 Dev tools
-
-👉 SQL
 
 
 ## COURSES
