@@ -22,17 +22,17 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 ## TOOLS
 
-JIRA, TRELLO, SLACK, ASANA - Issue tracking and project management tool for developers
+👉 JIRA, TRELLO, SLACK, ASANA - Issue tracking and project management tool for developers
 
-POSTMAN - Testing tools for REST API
+👉 POSTMAN - Testing tools for REST API
 
-SHAREX, PICK PICK - Screen recording tools, screenshots, etc.
+👉 SHAREX, PICK PICK - Screen recording tools, screenshots, etc.
 
-GITHUB - open-source cross-platform web server solution stack package
+👉 GITHUB - open-source cross-platform web server solution stack package
 
-XAMPP -
+👉 XAMPP - open-source cross-platform web server solution stack package
 
-BROWSERSTACK - web and mobile testing platform
+👉 BROWSERSTACK - web and mobile testing platform
 
 
 ## TECH SKILLS
@@ -87,6 +87,6 @@ https://docs.google.com/spreadsheets/d/1Zw9536ijcbvO7mphFlzcEHwc686ZagMSifiKdcNm
 
 https://github.com/justynazs/-challenge_portfolio_justyna
 
-## LINKED IN
+## LINKEDIN
 
 https://www.linkedin.com/in/justyna-gajda-605480252/
