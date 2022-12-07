@@ -42,10 +42,11 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 👉 GITHUB - open-source cross-platform web server solution stack package
 
-👉  Xampp - open-source cross-platform web server solution stack package
+👉 XAMPP- open-source cross-platform web server solution stack package
 
 👉 BROWSERSTACK - web and mobile testing platform
 
+https://www.postman.com/
 
 
 ## COURSES
