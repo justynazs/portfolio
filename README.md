@@ -50,7 +50,7 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 ## COURSES
 
-Portfolio Challenge Dare IT
+Portfolio Challenge - DARE IT
 
 Practical software testing course - UDEMY
 
