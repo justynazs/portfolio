@@ -37,15 +37,15 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 ## TECH SKILLS
 
-Software desting
+👉 Software desting
 
-Creating test cases
+👉 Creating test cases
 
-Reporting bugs
+👉 Reporting bugs
 
-Dev tools
+👉 Dev tools
 
-SQL
+👉 SQL
 
 
 ## COURSES
