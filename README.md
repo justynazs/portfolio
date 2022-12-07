@@ -46,7 +46,6 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 👉 BROWSERSTACK - web and mobile testing platform
 
-https://www.postman.com/
 
 
 ## COURSES
