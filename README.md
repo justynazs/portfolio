@@ -47,6 +47,7 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 👉 GITHUB - Open-source cross-platform web server solution stack package
 
 
+
 ## COURSES
 
 Portfolio Challenge - DARE IT
