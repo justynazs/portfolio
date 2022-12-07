@@ -42,7 +42,7 @@ My name is Justyna Gajda. I graduated from cultural studies at the University of
 
 👉 GITHUB - open-source cross-platform web server solution stack package
 
-👉 XAMPP - open-source cross-platform web server solution stack package
+👉  Xampp - open-source cross-platform web server solution stack package
 
 👉 BROWSERSTACK - web and mobile testing platform
 
@@ -83,7 +83,7 @@ https://docs.google.com/spreadsheets/d/1WPYQe8Za87NjGtabYu8MtIbrKVSBEB7XGkPmvRuj
 https://docs.google.com/spreadsheets/d/1Zw9536ijcbvO7mphFlzcEHwc686ZagMSifiKdcNm_S0/edit#gid=0
 
 
-## LINK TO MY REPOSITORY MADE DURING PORFTOLIO CHALLENGE WITH DARE IT COMMUNITY
+## LINK TO MY REPOSITORY MADE DURING PORFTOLIO CHALLENGE WITH DARE IT
 
 https://github.com/justynazs/-challenge_portfolio_justyna
 
